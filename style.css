@@ -1,0 +1,14 @@
+ul,
+ul {
+  display: flex;
+  gap: 10px;
+}
+li {
+  list-style: none;
+}
+
+.pagination {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
